@@ -1,6 +1,6 @@
 # Simple Vue Chat
 
-![Sample Image](https://res.cloudinary.com/getoutbcn/image/upload/v1732211262/samples/Captura_de_pantalla_2024-11-21_184542_fvxpnz.jpg)
+<img src="https://res.cloudinary.com/getoutbcn/image/upload/v1732211262/samples/Captura_de_pantalla_2024-11-21_184542_fvxpnz.jpg" alt="Sample Image" width="50%">
 
 A dummy chat application built with Vue.js that responds to messages ending with a question mark (`?`) using animated GIFs for **Yes** or **No** fetched from the [yesno.wtf API](https://yesno.wtf/).
 
